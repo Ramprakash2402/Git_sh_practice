@@ -1,1 +1,0 @@
-print("MLC test case")
